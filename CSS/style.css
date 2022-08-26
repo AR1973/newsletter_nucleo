@@ -164,14 +164,15 @@ a{
 
 
 footer {
-    height:40vh;
+    height:40vh;    
     background-color:#1a1a1a9b;
   }
 
 footer div#conteudo-footer {
   max-width: var(--container);
   height: 100%;
-  margin: 0 auto;
+  margin: 100px auto;
+  
 
   display: flex;
   flex-direction: column;
